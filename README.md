@@ -2,7 +2,7 @@
 Projeto do Curso Desenvolvimento Web Completo de Jamilton Damasceno.
 
 - Somente uso de bootstrap e conteúdos visuais já disponibilizados pelo professor.
-- Responsivo
+- Responsivo até certo ponto (sem media queries)
 - Imagem principal some para se adequar a dispositivos menores e não poluir a tela
 
 ## Preview
